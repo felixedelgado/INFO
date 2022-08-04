@@ -1,2 +1,2 @@
 # INFO
-Blog hecho con Python
+Blog hecho con D-Jango
