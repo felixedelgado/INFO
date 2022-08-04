@@ -5,4 +5,4 @@ from django.contrib.auth.models import AbstractUser
 
 
 class User(AbstractUser):
-    """Extiende el Usuario de django"""
+    """Extiende el Usuario de django""" # Esto para que luefo permita realizar modificaciones
